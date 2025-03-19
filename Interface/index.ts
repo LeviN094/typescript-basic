@@ -1,0 +1,1 @@
+// Interface trong TypeScript là một cách để định nghĩa cấu trúc của một object. Nó giúp đảm bảo rằng một object có đúng các thuộc tính cần thiết và giúp code dễ bảo trì hơn.
